@@ -1,8 +1,5 @@
 # Web-3-Twitter
 Final Project For CSCI4309-647 (Block Chain Course)/
-By:/
-محمود محمد ابو صقر 120180194/
-يوسف اسامة خريس 120181450/
 
 Web 3.0 Twitter is a Full-Stack Blockchain App Using web3uikit, React, Moralis and Solidity.
 
